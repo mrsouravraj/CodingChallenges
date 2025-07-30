@@ -6,4 +6,5 @@ This repository contains my solutions to John Crickett's Coding Challenges. The 
 
 ## Challenges
 
-* [Coding Challenge #92 - LOC Counter](CC-92-LOC_COUNTER/)
+* [Coding Challenge #53 - Build Your Own Spell Checker Using A Bloom Filter](CC-53-Bloom_filter_spell_checker)
+* [Coding Challenge #92 - LOC Counter](CC-92-LOC_Counter/)
