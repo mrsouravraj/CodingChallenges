@@ -1,4 +1,4 @@
-# 🧠 Build Your Own Redis CLI
+# Build Your Own Redis CLI
 
 This project is a part of the [Coding Challenges](https://codingchallenges.fyi/challenges/challenge-redis-cli/) series — a hands-on exercise to build a custom Redis CLI client from scratch using Python.
 
