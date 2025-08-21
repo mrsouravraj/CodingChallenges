@@ -8,6 +8,6 @@ This repository contains my solutions to John Crickett's Coding Challenges. The 
 
 * [Coding Challenge #37 - Build Your Own Redis CLI ](https://github.com/mrsouravraj/PyRedisConsole)
 * [Coding Challenge #53 - Build Your Own Spell Checker Using A Bloom Filter](CC-53-Bloom_filter_spell_checker)
+* [Coding Challenge #90 - SMTP Server](https://github.com/mrsouravraj/Smtp-server-py)
 * [Coding Challenge #92 - LOC Counter](CC-92-LOC_Counter/)
 * [Coding Challenge #96 - Whois](https://github.com/mrsouravraj/Whois-py)
-* [Coding Challenge #90 - SMTP Server](https://github.com/mrsouravraj/Smtp-server-py)
